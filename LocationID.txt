@@ -1,0 +1,33 @@
+0       : Panhala Fort
+1       : Dajipur Wildlife Sanctuary
+2       : Shri Chatrapati Shahu Museum (New Palace)
+3       : Gaganbawada
+4       : Ramtirth Waterfall
+5       : Sagareshwar Deer Sanctuary
+6       : Kopeshwar Temple
+7       : Narsinhwadi Datta Mandir
+8       : Vishalgad
+9       : Mahalaxmi Temple, Kolhapur
+10      : Binkhambi Ganesh Temple
+11      : Gangagiri Maharaj Math Temple
+12      : Rankala Lake
+13      : Jyotiba Temple
+14      : Temlabai Mandir
+15      : Siddhagiri Museum
+16      : Chinmaya Ganadhish
+17      : DYP City Mall
+18      : Sajja Kothi
+19      : Bhavani Mandap
+20      : Radhanagari Dam
+21      : Teen Darwaza
+22      : Botanical Gardens in Kolhapur
+23      : Khasbag Maidan
+24      : Gadhinglaj
+25      : Bhudargarh
+26      : Shalini Palace
+27      : Irwin Agricultural Museum
+
+
+Places.obj
+time_to_travel.obj
+updated_distance.obj

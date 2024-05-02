@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/lavanya/Downloads/Route Designer-20240502T172742Z-001/Route Designer/.venv/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
