@@ -1,6 +1,8 @@
-# Lavanya Satpute
+# Hi, I am Lavanya Satpute !
 
-[LinkedIn](www.linkedin.com/in/lavanya-statute-58a9a122b) | [GitHub](https://github.com/lavanyasatpute)
+Contact: +91 7249684878 | Email: lavanyasatpute123@gmail.com
+
+[GitHub](https://github.com/lavanyasatpute) | [LinkedIn](www.linkedin.com/in/lavanya-statute-58a9a122b)
 
 ---
 
@@ -10,60 +12,65 @@
   - KIT’s College of Engineering, Kolhapur
   - CGPA: 8.09 | 2021-2025
 
+- **HSC (12th)**
+  - Jagrut Junior College, Warud
+  - Percentage: 80.85 | 2019-2021
+
+- **SSC (10th)**
+  - Jagrut Vidhyalaya, Warud
+  - Percentage: 80.60 | 2019
+
 ---
 
 ## Skills
 
 - Machine Learning
 - Deep Learning
+- MongoDB
 - Django
 - Flask
-- Python
-- Java
-- HTML
-- CSS
+- Git
 
 ---
 
 ## Projects
 
 1. **CollegeVista**
-   - Django, Machine Learning
+   - Developed a college admissions prediction system using Django and ML.
 
 2. **Yatra Surksha**
-   - Android Studio, Django, Deep learning
+   - Built an Android app for accident prediction and visualization.
 
 3. **FourEye**
-   - Deep learning, YoloV8, Django
+   - Developing a suspicious activity detection system using UAV images.
 
 4. **Worklist App**
-   - Android Studio, Java
+   - Designed and developed a task management app for Android.
 
 ---
 
 ## Internships
 
-- Inueron Internship
-- Altrex Virtual Internship
+- Inueron Internship: Worked on detecting suspicious activities.
+- Altrex Virtual Internship: Analyzed data using the Altrex tool.
 
 ---
 
 ## Extracurricular Activities
 
-- Co-ordinator | Training and Placement Cell CSE
-- Documentation Team Member | Student Developer Club
+- Co-ordinator at Training and Placement Cell CSE (AIML & DS) Department, Kitcoek.
+- Documentation Team Member at Student Developer Club, Kitcoek.
 
 ---
 
 ## Certification
 
-- IIT Varanasi | Machine Learning
-- Great Learning | Data Structures in C
-- CISCO | Introduction to Cyber Security
+- IIT Varanasi: Machine Learning
+- Great Learning: Data Structures in C
+- CISCO: Introduction to Cyber Security
 
 ---
 
 ## Achievements
 
-- Event Runner-Up | PBL Competition
-
+- Runner-Up in PBL Competition
