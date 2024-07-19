@@ -22,33 +22,6 @@ Contact: +91 7249684878 | Email: lavanyasatpute123@gmail.com
 
 ---
 
-## Skills
-
-- Machine Learning
-- Deep Learning
-- MongoDB
-- Django
-- Flask
-- Git
-
----
-
-## Projects
-
-1. **CollegeVista**
-   - Developed a college admissions prediction system using Django and ML.
-
-2. **Yatra Surksha**
-   - Built an Android app for accident prediction and visualization.
-
-3. **FourEye**
-   - Developing a suspicious activity detection system using UAV images.
-
-4. **Worklist App**
-   - Designed and developed a task management app for Android.
-
----
-
 ## Internships
 
 - Inueron Internship: Worked on detecting suspicious activities.
@@ -68,6 +41,7 @@ Contact: +91 7249684878 | Email: lavanyasatpute123@gmail.com
 - IIT Varanasi: Machine Learning
 - Great Learning: Data Structures in C
 - CISCO: Introduction to Cyber Security
+- Hackerank: Python
 
 ---
 
