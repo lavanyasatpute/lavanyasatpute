@@ -1,50 +1,38 @@
-# Hi, I am Lavanya Satpute !
+# Hi, I am Lavanya Satpute ! 👋  
 
-Contact: +91 7249684878 | Email: lavanyasatpute123@gmail.com
 
-[GitHub](https://github.com/lavanyasatpute) | [LinkedIn](www.linkedin.com/in/lavanya-statute-58a9a122b)
+🌍 **Location**: Maharashtra, India  
+💻 **Interests**: Codding | Web Devlopment | Deep Learning | Machine Learning 
 
----
-
-## Education
-
-- **B Tech CSE(AIML)**
-  - KIT’s College of Engineering, Kolhapur
-  - CGPA: 8.09 | 2021-2025
-
-- **HSC (12th)**
-  - Jagrut Junior College, Warud
-  - Percentage: 80.85 | 2019-2021
-
-- **SSC (10th)**
-  - Jagrut Vidhyalaya, Warud
-  - Percentage: 80.60 | 2019
 
 ---
 
-## Internships
+## 🛠 **Skills**
 
-- Inueron Internship: Worked on detecting suspicious activities.
-- Altrex Virtual Internship: Analyzed data using the Altrex tool.
+**Programming Languages**:
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-## Extracurricular Activities
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-- Co-ordinator at Training and Placement Cell CSE (AIML & DS) Department, Kitcoek.
-- Documentation Team Member at Student Developer Club, Kitcoek.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ---
 
-## Certification
+### GitHub Stats  
 
-- IIT Varanasi: Machine Learning
-- Great Learning: Data Structures in C
-- CISCO: Introduction to Cyber Security
-- Hackerank: Python
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyasatpute&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyasatpute&layout=compact&theme=radical)  
 
 ---
 
-## Achievements
+## 📫 **Connect with Me**
 
-- Runner-Up in PBL Competition
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:https://github.com/lavanyasatpute)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/lavanyasatpute)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/lavanya-statute-58a9a122b)
+
+---
+
+✨ *Let's build something amazing together!*  
+
