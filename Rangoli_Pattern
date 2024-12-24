@@ -1,0 +1,142 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "gpuType": "T4",
+      "authorship_tag": "ABX9TyNvkJO/YGUJzDmQU5xQbqKe",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/lavanyasatpute/lavanyasatpute/blob/main/Rangoli_Pattern\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "id": "LLJye5VfUVee",
+        "outputId": "dc2acc5c-3c22-4783-92d3-d8b0e150572c",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "10\n",
+            "------------------j------------------\n",
+            "----------------j-i-j----------------\n",
+            "--------------j-i-h-i-j--------------\n",
+            "------------j-i-h-g-h-i-j------------\n",
+            "----------j-i-h-g-f-g-h-i-j----------\n",
+            "--------j-i-h-g-f-e-f-g-h-i-j--------\n",
+            "------j-i-h-g-f-e-d-e-f-g-h-i-j------\n",
+            "----j-i-h-g-f-e-d-c-d-e-f-g-h-i-j----\n",
+            "--j-i-h-g-f-e-d-c-b-c-d-e-f-g-h-i-j--\n",
+            "j-i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i-j-\n",
+            "--j-i-h-g-f-e-d-c-b-h-i-j-k-l-m-n-o--\n",
+            "----j-i-h-g-f-e-d-c-i-j-k-l-m-n-o----\n",
+            "------j-i-h-g-f-e-d-j-k-l-m-n-o------\n",
+            "--------j-i-h-g-f-e-k-l-m-n-o--------\n",
+            "----------j-i-h-g-f-l-m-n-o----------\n",
+            "------------j-i-h-g-m-n-o------------\n",
+            "--------------j-i-h-n-o--------------\n",
+            "----------------j-i-o----------------\n",
+            "------------------j------------------\n"
+          ]
+        }
+      ],
+      "source": [
+        "def print_rangoli(size):\n",
+        "    # your code goes here\n",
+        "    horizontal_L = (2*size-2)\n",
+        "    j = 0\n",
+        "    for i in range(size):\n",
+        "\n",
+        "        for j in range(round(horizontal_L)):\n",
+        "            print(\"-\",end=\"\")\n",
+        "\n",
+        "\n",
+        "        j += 2\n",
+        "        alfa = size\n",
+        "        for k in range(i+1):\n",
+        "            print(chr(alfa+64).lower(),end=\"-\")\n",
+        "            alfa -= 1\n",
+        "        beta = size -(i-1)\n",
+        "        # beta = size\n",
+        "        for l in range(i):\n",
+        "            # beta -= l\n",
+        "            # if (chr(beta+64).lower() == chr(size+64).lower()):\n",
+        "            #     print(chr(beta+64).lower())\n",
+        "            #     pass\n",
+        "            print(chr(beta+64).lower(),end=\"-\")\n",
+        "            beta += 1\n",
+        "\n",
+        "        for j in range(round(horizontal_L-1)):\n",
+        "            print(\"-\",end=\"\")\n",
+        "        horizontal_L -= 2\n",
+        "        print()\n",
+        "    horizon = 2\n",
+        "    alfa = size -1\n",
+        "    theta = size-2\n",
+        "    meta = size - 2\n",
+        "    for i in range(size-1):\n",
+        "        for j in range(horizon):\n",
+        "            print(\"-\",end=\"\")\n",
+        "\n",
+        "        beta = size\n",
+        "        for k in range(alfa):\n",
+        "            print(chr(beta+64).lower(),end=\"-\")\n",
+        "            beta-=1\n",
+        "        alfa -= 1\n",
+        "\n",
+        "        meta2 = meta\n",
+        "        for _ in range(theta):\n",
+        "            print(chr(meta2+64).lower(),end=\"-\")\n",
+        "            meta2 +=1\n",
+        "        meta += 1\n",
+        "        theta -= 1\n",
+        "\n",
+        "        for j in range(horizon-1):\n",
+        "            print(\"-\",end=\"\")\n",
+        "        horizon += 2\n",
+        "        print()\n",
+        "\n",
+        "\n",
+        "\n",
+        "if __name__ == '__main__':\n",
+        "    n = int(input())\n",
+        "    print_rangoli(n)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "rY3-owxdUWTp"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
