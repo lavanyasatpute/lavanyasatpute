@@ -35,5 +35,5 @@
 ---
 
 ✨ *Let's build something amazing together!*  
-https://portdreginganalyser.my.canva.site/event-management
+
 
